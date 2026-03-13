@@ -82,7 +82,6 @@ karo-pitch-demo
 ├── index.html
 ├── style.css
 ├── script.js
-│
 └── README.md
 ```
 
@@ -105,7 +104,7 @@ The aim was to:
 You can view the live website here:
 
 ```
-Add your deployed link here
+https://adityakumar747.github.io/Karopitch/
 ```
 
 
