@@ -1,6 +1,6 @@
 # Karo Pitch – Demo Landing Page
 
-This project is a **demo landing page for Karo Pitch**, created as part of an internship assignment by **KaroStartup**.
+This project is a **demo landing page for Karo Pitch**, created for **KaroStartup**.
 
 Karo Pitch is an initiative designed to help **early-stage founders from across India pitch their startups directly to investors**. The goal of this landing page is to clearly explain the platform and encourage startups to apply.
 
